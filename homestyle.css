@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  color: #3e444c
+}
+
+p {
+  font-size: 16px;
+  color: black;
+}
+
+li{
+  float: centre;
+  font-family: arial;
+}
+
+.subjects{
+  margin-top: 20px
+  padding: 10px;
+
+}
